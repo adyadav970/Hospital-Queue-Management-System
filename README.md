@@ -25,6 +25,18 @@ priority.
 - Input Validation
 - Empty Queue Handling
 
+## SDG Mapping
+
+### SDG 3 – Good Health and Well-being
+
+This project is mapped with Sustainable Development Goal 3 (SDG 3):
+Good Health and Well-being.
+
+The system provides an organized approach to managing hospital
+patient queues. It maintains normal patients using FIFO and handles
+emergency patients according to priority. This helps demonstrate
+structured queue management in a hospital environment.
+
 ## Data Structures Used
 
 - Queue
